@@ -185,7 +185,7 @@ async function clickStart() {
 
 async function clickBack() {
     if (confirm("목록으로 돌아가시겠습니까?")) {
-        window.location.href = "http://localhost:8080/";
+        window.location.href = "http://pika-chess.kro.kr:8080/";
     }
 }
 
